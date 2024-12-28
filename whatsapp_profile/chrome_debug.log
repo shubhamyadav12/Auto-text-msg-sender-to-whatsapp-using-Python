@@ -1,0 +1,10 @@
+[11716:14972:0728/111543.491:WARNING:chrome_main_delegate.cc(744)] This is Chrome version 127.0.6533.72 (not a warning)
+[11716:14972:0728/111543.605:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[11716:14972:0728/111543.637:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[14988:1040:0728/111544.256:INFO:cpu_info.cc(53)] Available number of cores: 4
+[10944:1928:0728/111544.984:INFO:cpu_info.cc(53)] Available number of cores: 4
+[9048:3588:0728/111545.169:INFO:cpu_info.cc(53)] Available number of cores: 4
+[11716:14972:0728/111545.797:INFO:CONSOLE(133)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yC/r/UdBDh7rDEG_.js?_nc_x=Ij3Wp8lg5Kz (133)
+[11716:14972:0728/111545.863:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[11716:14972:0728/111545.863:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[1360:14944:0728/111547.114:INFO:cpu_info.cc(53)] Available number of cores: 4
